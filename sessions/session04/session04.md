@@ -83,6 +83,13 @@ for radius in range(10, 101, 10):  # 10, 20, 30, ..., 100
 turtle.done()
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🎨 Exercise 1: Multiplication Table Patterns
 
 Let's visualize multiplication tables with turtle graphics!
@@ -198,6 +205,13 @@ turtle.done()
 
 **Kid-Friendly Analogy**: "Nested loops are like saying 'For every row, draw all the columns.' It's like planting a garden: for each row, plant seeds in every spot."
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've practiced with hands-on exercises. Take a short break if you need one. When you're ready, continue with the math connection and Scratch translation.*
+
+---
 ## 🧮 Math Connection: Patterns and Sequences
 
 Loops are perfect for exploring mathematical patterns:
@@ -272,6 +286,13 @@ for i in range(10):
 - [ ] Used `break` to exit a loop early
 - [ ] Used `continue` to skip iterations
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a program that draws 10 squares, each larger than the last.
@@ -288,4 +309,4 @@ In Session 5, we'll learn about **conditionals** (if/else statements) - how to m
 
 ---
 
-*Parent Note: Loops are a fundamental programming concept. Help your child visualize what's happening in each iteration. Use physical objects (marching toys, counting beads) to demonstrate repetition. The concept of starting at 0 (`range(5)` = 0-4) is important in computer science.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Loops are a fundamental programming concept. Help your child visualize what's happening in each iteration. Use physical objects (marching toys, counting beads) to demonstrate repetition. The concept of starting at 0 (`range(5)` = 0-4) is important in computer science.*

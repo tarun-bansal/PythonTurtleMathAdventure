@@ -1,5 +1,7 @@
 # Parent Guide: Setup and Getting Started
 
+Each session is designed in 20-minute chunks with built-in break points (marked with ⏱️). Total session time is 45-60 minutes.
+
 ## 🖥️ System Requirements
 
 ### Minimum Requirements

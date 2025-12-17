@@ -2,6 +2,9 @@
 
 ## 🤔 General Questions
 
+### Q: How long are sessions and what are the break points?
+**A**: Each session is designed in 20-minute chunks with built-in break points (marked with ⏱️). Total session time is 45-60 minutes. The break points help maintain focus and allow natural stopping points.
+
 ### Q: My child has no programming experience. Is this course suitable?
 **A**: Absolutely! This course is designed for complete beginners with Scratch/block coding experience. We start from "Hello Turtle" and build gradually. The analogies and visual approach make concepts accessible.
 

@@ -37,6 +37,14 @@ print("Python is working! 🎉")
 ```
 Click the green Run button. If you see "Python is working! 🎉" then you're ready!
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've set up Python and Thonny. Take a short break if you need one. When you're ready, continue with the next section to learn about coordinates and basic turtle commands.*
+
+---
 ## 📍 The Coordinate System
 
 Think of your computer screen as a giant grid:
@@ -85,6 +93,14 @@ turtle.done()
 
 **Click the green Run button!** You should see a square appear!
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Excellent! You've drawn your first square with Python. Take a short break if you need one. When you're ready, continue with the next section to learn about angles and hands-on exercises.*
+
+---
 ## 🧩 Why 90 Degrees?
 
 A square has 4 sides and 4 corners. Each corner is a **90-degree angle**. That's why we turn 90 degrees after drawing each side!
@@ -146,6 +162,14 @@ Turtle graphics is all about **geometry**:
 
 **Formula**: For any polygon with n sides, each turn = 360 ÷ n degrees!
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've explored geometry concepts and hands-on exercises. Take a short break if you need one. When you're ready, continue with the Scratch to Python translation and challenge problems.*
+
+---
 ## 🎯 Scratch to Python Translation
 
 | In Scratch you would... | In Python you write... |
@@ -189,4 +213,4 @@ In Session 2, we'll learn about **variables** - the programmer's memory boxes! W
 
 ---
 
-*Parent Note: Session should take 45-60 minutes. Let your child explore and make mistakes - debugging is an important skill! The most important goal is maintaining excitement and curiosity.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Let your child explore and make mistakes - debugging is an important skill! The most important goal is maintaining excitement and curiosity.*

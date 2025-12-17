@@ -65,6 +65,13 @@ Two main ways to control speed:
    screen.update()   # Update screen manually
    ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🌀 Exercise 1: Rotating Polygon
 
 Create a polygon that spins around:
@@ -321,6 +328,13 @@ Good animation follows these principles:
 - [ ] Understood frame rates and timing
 - [ ] Applied easing for natural motion
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a "clock" with moving hour, minute, and second hands (use `time.localtime()` to get current time).
@@ -337,4 +351,4 @@ In Session 10, we'll explore **fractals** - math in nature! We'll create beautif
 
 ---
 
-*Parent Note: Animation introduces real-time programming concepts. Help your child experiment with different speeds and observe the results. The physics simulation (bouncing ball) connects programming to real-world science!*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Animation introduces real-time programming concepts. Help your child experiment with different speeds and observe the results. The physics simulation (bouncing ball) connects programming to real-world science!*

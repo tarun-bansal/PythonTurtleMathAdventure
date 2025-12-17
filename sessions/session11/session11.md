@@ -33,6 +33,13 @@ while game_not_over():
 show_final_score()
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🧮 Exercise 1: Math Fact Practice Game
 
 Create a game that helps practice math facts with increasing difficulty:
@@ -442,6 +449,13 @@ Tell players how they're doing:
 - [ ] Created game over conditions
 - [ ] Debugged game mechanics
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a "number line" game where players place numbers in correct positions on a number line.
@@ -458,4 +472,4 @@ In our final Session 12, you'll create your **Math Art Gallery** - a final proje
 
 ---
 
-*Parent Note: Game design synthesizes all programming concepts. Help your child think about game mechanics, fairness, and engagement. This is software engineering in miniature - planning, implementing, testing, and refining a complete system.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Game design synthesizes all programming concepts. Help your child think about game mechanics, fairness, and engagement. This is software engineering in miniature - planning, implementing, testing, and refining a complete system.*

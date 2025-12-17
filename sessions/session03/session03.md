@@ -92,6 +92,13 @@ for i in range(4):
 turtle.done()
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🧮 Exercise 1: Shape Generator
 
 Create a program that asks for shape details and draws them:
@@ -211,6 +218,13 @@ except:
 
 **Kid-Friendly Analogy**: "The `try` block is like saying 'Let's try to do this...' and the `except` block is like 'If something goes wrong, do this instead.'"
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've practiced with hands-on exercises. Take a short break if you need one. When you're ready, continue with the math connection and Scratch translation.*
+
+---
 ## 🧠 Math Connection: Interactive Word Problems
 
 Remember word problems in math? Now you can CREATE them!
@@ -255,6 +269,13 @@ else:
 - [ ] Used `try`/`except` to handle errors
 - [ ] Created an interactive word problem
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Make a program that asks for a favorite color and draws a square in that color.
@@ -271,4 +292,4 @@ In Session 4, we'll learn about **loops** - the programmer's superpower for repe
 
 ---
 
-*Parent Note: This session introduces real interactivity. Help your child think about good questions to ask users. Error handling (`try`/`except`) is advanced but introduced gently - focus on the concept of "what if someone types something unexpected?"*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. This session introduces real interactivity. Help your child think about good questions to ask users. Error handling (`try`/`except`) is advanced but introduced gently - focus on the concept of "what if someone types something unexpected?"*

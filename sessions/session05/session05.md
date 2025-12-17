@@ -99,6 +99,13 @@ random_color = random.choice(colors)
 print(f"Random color: {random_color}")
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🐢 Exercise 1: Random Walk Turtle
 
 Create a turtle that randomly chooses directions:
@@ -239,6 +246,13 @@ turtle.done()
 | "Wait until <> " block | `while not condition:` (next session) |
 | ">", "<", "=" operators | `>`, `<`, `==` |
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've practiced with hands-on exercises. Take a short break if you need one. When you're ready, continue with the math connection and Scratch translation.*
+
+---
 ## 🧠 Math Connection: Inequalities and Number Lines
 
 Conditionals are perfect for exploring inequalities:
@@ -302,6 +316,13 @@ if not has_permission:
 - [ ] Used `and`, `or`, `not` to combine conditions
 - [ ] Created a number line game
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a guessing game where the computer picks a number 1-10 and the user guesses. Give "too high"/"too low" hints.
@@ -318,4 +339,4 @@ In Session 6, we'll learn about **functions** - your code toolbox! We'll create 
 
 ---
 
-*Parent Note: Conditionals introduce logical thinking. Help your child trace through different paths ("What if the number is 5? What if it's 15?"). The concept of Boolean logic (True/False) is foundational to computer science.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Conditionals introduce logical thinking. Help your child trace through different paths ("What if the number is 5? What if it's 15?"). The concept of Boolean logic (True/False) is foundational to computer science.*

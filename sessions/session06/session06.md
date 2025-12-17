@@ -7,6 +7,8 @@
 - Organize code into reusable pieces
 - Connect Scratch custom blocks to Python functions
 
+💡 **Session Note**: This session covers many concepts. Take breaks at the ⏱️ markers to avoid overload.
+
 ## 🧰 What is a Function?
 
 Imagine you have a magic recipe box. Each recipe card tells you how to make something:
@@ -71,6 +73,13 @@ print(f"A 5x5 square has area {calculate_area(5, 5)}")
 
 **Math Connection**: This is exactly like mathematical functions! `f(x) = x²` becomes `def f(x): return x * x`
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🐢 Exercise 1: Shape Drawing Toolkit
 
 Let's build a collection of shape-drawing functions:
@@ -287,6 +296,13 @@ draw_polygon(6, 50)     # Draws hexagon, size=50
 - [ ] Used default parameters
 - [ ] Called functions multiple times with different arguments
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a `draw_snowflake()` function that draws a 6-armed snowflake using your `draw_star()` or other shape functions.
@@ -303,4 +319,4 @@ In Session 7, we'll learn about **lists** - the programmer's collection! We'll s
 
 ---
 
-*Parent Note: Functions introduce abstraction - a key computer science concept. Help your child see functions as "black boxes": you put ingredients in (parameters), get results out (return values), without worrying about how it works inside. This is how real software is built!*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. Functions introduce abstraction - a key computer science concept. Help your child see functions as "black boxes": you put ingredients in (parameters), get results out (return values), without worrying about how it works inside. This is how real software is built!*

@@ -97,6 +97,13 @@ if 30 in numbers:
 position = numbers.index(30)  # 2
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🐢 Exercise 1: Rainbow Turtle
 
 Use a color list to create rainbow drawings:
@@ -204,6 +211,13 @@ turtle.done()
 
 **Challenge**: Create your own shape by changing the coordinates!
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've practiced with hands-on exercises. Take a short break if you need one. When you're ready, continue with the math connection and Scratch translation.*
+
+---
 ## 🧮 Math Connection: Statistics with Lists
 
 Lists are perfect for math calculations:
@@ -274,6 +288,13 @@ print(numbers[::-1])   # [100, 90, ..., 10] - reversed!
 - [ ] Used list slicing
 - [ ] Checked if items exist with `in`
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a program that stores 5 friend names in a list, then prints a greeting for each friend.
@@ -290,4 +311,4 @@ In Session 8, we'll explore **advanced math operations** and problem solving! We
 
 ---
 
-*Parent Note: The concept of 0-based indexing is critical in computer science. Help your child visualize indices as "positions from the start" rather than "which item". Lists introduce data structures - a fundamental CS concept.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. The concept of 0-based indexing is critical in computer science. Help your child visualize indices as "positions from the start" rather than "which item". Lists introduce data structures - a fundamental CS concept.*

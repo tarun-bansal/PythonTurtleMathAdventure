@@ -1,5 +1,7 @@
 # Parent Guide: Learning Tips and Pedagogy
 
+Sessions are structured in 20-minute chunks with built-in break points. Encourage your child to take breaks at the ⏱️ markers to maintain focus and avoid cognitive overload.
+
 ## 🧠 How Children Learn Programming
 
 ### Cognitive Development at Age 9

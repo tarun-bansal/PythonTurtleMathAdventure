@@ -7,6 +7,8 @@
 - Debug complex programs
 - Apply mathematical thinking to programming problems
 
+💡 **Session Note**: This session covers many concepts. Take breaks at the ⏱️ markers to avoid overload.
+
 ## 🧮 Advanced Math Operators
 
 Python has special math operators beyond `+`, `-`, `*`, `/`:
@@ -58,6 +60,13 @@ print(math.ceil(3.2))     # 4 (round up)
 print(math.fabs(-5))      # 5.0 (absolute value)
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the core concepts. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice your new skills.*
+
+---
 ## 🐢 Exercise 1: Prime Number Visualizer
 
 Create a visual representation of prime numbers:
@@ -333,6 +342,13 @@ print(math.tau)              # 6.283... (2π)
 - [ ] Used trigonometry and logarithms
 - [ ] Handled math-related errors
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned the key concepts. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a program that converts between decimal, binary, and hexadecimal numbers using division and modulus.
@@ -349,4 +365,4 @@ In Session 9, we'll learn about **animation** - bringing drawings to life! We'll
 
 ---
 
-*Parent Note: This session connects advanced math concepts to programming. The modulo operator (`%`) is particularly important in computer science (hashing, cryptography, cyclic patterns). Encourage mathematical thinking as problem-solving.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. This session connects advanced math concepts to programming. The modulo operator (`%`) is particularly important in computer science (hashing, cryptography, cyclic patterns). Encourage mathematical thinking as problem-solving.*

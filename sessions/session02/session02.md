@@ -33,14 +33,14 @@ Bad names: `a`, `b`, `c` (too vague!), `my variable` (has space)
 
 1. **Number variables**: Store integers (whole numbers) or decimals
    ```python
-   score = 100
-   pi = 3.14159
+score = 100
+pi = 3.14159
    ```
 
 2. **String variables**: Store text (letters, words, sentences)
    ```python
-   player_name = "Alex"
-   greeting = "Hello, turtle friend!"
+player_name = "Alex"
+greeting = "Hello, turtle friend!"
    ```
 
 **Math Connection**: In algebra, you use letters like `x` and `y` to represent unknown numbers. Programming variables are similar, but we can store any value, not just numbers!
@@ -60,11 +60,16 @@ t.forward(steps)  # The turtle moves 50 steps!
 
 ### Example 2: Changing a Variable
 ```python
+import turtle
+t = turtle.Turtle()
+
 size = 100
 t.forward(size)  # Move 100 steps
 
 size = 50        # Change what's in the box
 t.forward(size)  # Now move 50 steps
+
+turtle.done()
 ```
 
 **Important**: `=` means "put this value in this box", NOT "these are equal" like in math!
@@ -93,6 +98,7 @@ score = score + 5    # score is now 15
 
 Variables make turtle graphics more flexible! Instead of writing:
 ```python
+# This code assumes you have already imported turtle and created a turtle named t
 t.forward(100)
 t.left(90)
 t.forward(100)
@@ -100,6 +106,7 @@ t.forward(100)
 
 You can write:
 ```python
+# This code assumes you have already imported turtle and created a turtle named t
 side = 100
 angle = 90
 
@@ -110,6 +117,14 @@ t.forward(side)
 
 Now you can change the shape just by changing the variables!
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've learned the basics of variables. Take a short break if you need one. When you're ready, continue with hands-on exercises to practice using variables with turtle graphics.*
+
+---
 ## ✨ Hands-on Exercise: Scalable Shapes
 
 Let's create a program that draws shapes of any size using variables:
@@ -214,6 +229,14 @@ t.write(f"Score: {score}", font=("Arial", 16, "normal"))
 turtle.done()
 ```
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great job! You've practiced using variables with hands-on exercises. Take a short break if you need one. When you're ready, continue with the math connection and Scratch translation.*
+
+---
 ## 🧠 Math Connection: Algebra Comes Alive!
 
 Variables in programming are exactly like variables in algebra:
@@ -251,6 +274,14 @@ But programming variables are MORE powerful:
 - [ ] Created a growing spiral
 - [ ] Made a polygon calculator
 
+
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've learned about variables and their connections to algebra. Take a short break if you need one. When you're ready, try the challenge problems to test your skills!*
+
+---
 ## 🏆 Challenge Problems
 
 **Bronze Challenge**: Create a program that draws three squares of different sizes using the same `side_length` variable (change it between squares).
@@ -267,4 +298,4 @@ In Session 3, we'll learn about **user input** - how to make programs that ask q
 
 ---
 
-*Parent Note: This session introduces foundational programming concepts. The equal sign (`=`) as assignment is different from math equality - emphasize this distinction. Encourage experimentation with different values.*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. The equal sign (`=`) as assignment is different from math equality - emphasize this distinction. Encourage experimentation with different values.*

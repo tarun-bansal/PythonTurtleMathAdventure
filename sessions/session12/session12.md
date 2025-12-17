@@ -103,6 +103,14 @@ Use this planning worksheet:
 #           Dragon curve, Interactive depth control
 ```
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great! You've planned your project and explored ideas. Take a short break if you need one. When you're ready, continue with the development process.*
+
+---
+
 ## 🛠️ Development Process
 
 ### Phase 1: Start Simple
@@ -204,6 +212,14 @@ Instructions: [How to use your program]
 - Make the math visible and understandable
 - Show beauty in mathematics
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great work! You've developed your project. Take a short break if you need one. When you're ready, continue with debugging and polishing your project.*
+
+---
+
 ## 🐛 Debugging Your Project
 
 When things go wrong (they will!):
@@ -278,6 +294,14 @@ def show_gallery():
 - What math did you learn?
 - What would you add next?
 
+---
+
+⏱️ **20-Minute Break Point**
+
+*Great progress! You've debugged and polished your project. Take a short break if you need one. When you're ready, continue with the final checklist and celebration!*
+
+---
+
 ## 📝 Project Checklist
 
 ### Planning Phase
@@ -349,4 +373,4 @@ Keep exploring! Here are ideas:
 
 ---
 
-*Parent Note: This final project synthesizes all learning. Encourage independence while providing support. The goal is not perfection but growth, creativity, and pride in accomplishment. Celebrate the completion of this programming journey!*
+*Parent Note: This session is designed in 20-minute chunks (marked with ⏱️ break points). Total session time: 45-60 minutes. This final project synthesizes all learning. Encourage independence while providing support. The goal is not perfection but growth, creativity, and pride in accomplishment. Celebrate the completion of this programming journey!*
